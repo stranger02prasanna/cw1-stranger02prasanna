@@ -22,10 +22,10 @@
 ## Role Users
 - Admin
 ### username=admin@gmail.com
-### password= <4 s>
+### password= <1 space>
 - User
 ### username=user@gmail.com
-### password= <4 spaces>
+### password= <1 spaces>
 
 ### username=u@gmail.com
 ### password= <4 spaces>
