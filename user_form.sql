@@ -40,10 +40,9 @@ CREATE TABLE `user_form` (
 --
 
 INSERT INTO `user_form` (`id`, `name`, `email`, `password`, `user_type`) VALUES
-(14, 'admin', 'admin@gmail.com', '0cf31b2c283ce3431794586df7b0996d', 'admin'),
-(16, 'user', 'user@gmail.com', '0cf31b2c283ce3431794586df7b0996d', 'user'),
-(17, 'testu', 'u@gmail.com', '0cf31b2c283ce3431794586df7b0996d', 'user'),
-(18, 'testa', 'a@gmail.com', '0cf31b2c283ce3431794586df7b0996d', 'admin');
+(20, 'admin', 'admin@gmail.com', '7215ee9c7d9dc229d2921a40e899ec5f', 'admin'),
+(22, 'user', 'user@gmail.com', '7215ee9c7d9dc229d2921a40e899ec5f', 'user'),
+(24, 'lil admin', 'a@gmail.com', '23b58def11b45727d3351702515f86af', 'admin');
 
 --
 -- Indexes for dumped tables
